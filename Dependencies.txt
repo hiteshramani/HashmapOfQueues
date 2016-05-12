@@ -1,0 +1,4 @@
+Please download the following libraries before running the code:
+
+1. pyzmq
+2. cPickle
